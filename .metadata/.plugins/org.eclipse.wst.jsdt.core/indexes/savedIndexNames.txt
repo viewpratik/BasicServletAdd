@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+F:\Resonantia\Adv Java\Projects\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+126043.index
+1972768076.index
+2252429306.index
+549788732.index
+2845336573.index
